@@ -1,0 +1,15 @@
+D:\C#\CSharpProjects\MatrixTransposure\bin\Debug\net7.0\MatrixTransposure.exe
+D:\C#\CSharpProjects\MatrixTransposure\bin\Debug\net7.0\MatrixTransposure.deps.json
+D:\C#\CSharpProjects\MatrixTransposure\bin\Debug\net7.0\MatrixTransposure.runtimeconfig.json
+D:\C#\CSharpProjects\MatrixTransposure\bin\Debug\net7.0\MatrixTransposure.dll
+D:\C#\CSharpProjects\MatrixTransposure\bin\Debug\net7.0\MatrixTransposure.pdb
+D:\C#\CSharpProjects\MatrixTransposure\obj\Debug\net7.0\MatrixTransposure.csproj.AssemblyReference.cache
+D:\C#\CSharpProjects\MatrixTransposure\obj\Debug\net7.0\MatrixTransposure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CSharpProjects\MatrixTransposure\obj\Debug\net7.0\MatrixTransposure.AssemblyInfoInputs.cache
+D:\C#\CSharpProjects\MatrixTransposure\obj\Debug\net7.0\MatrixTransposure.AssemblyInfo.cs
+D:\C#\CSharpProjects\MatrixTransposure\obj\Debug\net7.0\MatrixTransposure.csproj.CoreCompileInputs.cache
+D:\C#\CSharpProjects\MatrixTransposure\obj\Debug\net7.0\MatrixTransposure.dll
+D:\C#\CSharpProjects\MatrixTransposure\obj\Debug\net7.0\refint\MatrixTransposure.dll
+D:\C#\CSharpProjects\MatrixTransposure\obj\Debug\net7.0\MatrixTransposure.pdb
+D:\C#\CSharpProjects\MatrixTransposure\obj\Debug\net7.0\MatrixTransposure.genruntimeconfig.cache
+D:\C#\CSharpProjects\MatrixTransposure\obj\Debug\net7.0\ref\MatrixTransposure.dll

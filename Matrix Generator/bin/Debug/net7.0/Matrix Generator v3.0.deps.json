@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Matrix Generator v3.0/1.0.0": {
+        "runtime": {
+          "Matrix Generator v3.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matrix Generator v3.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

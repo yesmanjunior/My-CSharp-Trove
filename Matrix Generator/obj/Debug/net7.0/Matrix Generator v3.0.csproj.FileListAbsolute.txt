@@ -1,0 +1,30 @@
+D:\C#\CSharpProjects\Matrix Generator v3.0\bin\Debug\net7.0\Matrix Generator v3.0.exe
+D:\C#\CSharpProjects\Matrix Generator v3.0\bin\Debug\net7.0\Matrix Generator v3.0.deps.json
+D:\C#\CSharpProjects\Matrix Generator v3.0\bin\Debug\net7.0\Matrix Generator v3.0.runtimeconfig.json
+D:\C#\CSharpProjects\Matrix Generator v3.0\bin\Debug\net7.0\Matrix Generator v3.0.dll
+D:\C#\CSharpProjects\Matrix Generator v3.0\bin\Debug\net7.0\Matrix Generator v3.0.pdb
+D:\C#\CSharpProjects\Matrix Generator v3.0\obj\Debug\net7.0\Matrix Generator v3.0.csproj.AssemblyReference.cache
+D:\C#\CSharpProjects\Matrix Generator v3.0\obj\Debug\net7.0\Matrix Generator v3.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CSharpProjects\Matrix Generator v3.0\obj\Debug\net7.0\Matrix Generator v3.0.AssemblyInfoInputs.cache
+D:\C#\CSharpProjects\Matrix Generator v3.0\obj\Debug\net7.0\Matrix Generator v3.0.AssemblyInfo.cs
+D:\C#\CSharpProjects\Matrix Generator v3.0\obj\Debug\net7.0\Matrix Generator v3.0.csproj.CoreCompileInputs.cache
+D:\C#\CSharpProjects\Matrix Generator v3.0\obj\Debug\net7.0\Matrix Generator v3.0.dll
+D:\C#\CSharpProjects\Matrix Generator v3.0\obj\Debug\net7.0\refint\Matrix Generator v3.0.dll
+D:\C#\CSharpProjects\Matrix Generator v3.0\obj\Debug\net7.0\Matrix Generator v3.0.pdb
+D:\C#\CSharpProjects\Matrix Generator v3.0\obj\Debug\net7.0\Matrix Generator v3.0.genruntimeconfig.cache
+D:\C#\CSharpProjects\Matrix Generator v3.0\obj\Debug\net7.0\ref\Matrix Generator v3.0.dll
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\bin\Debug\net7.0\Matrix Generator v3.0.exe
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\bin\Debug\net7.0\Matrix Generator v3.0.deps.json
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\bin\Debug\net7.0\Matrix Generator v3.0.runtimeconfig.json
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\bin\Debug\net7.0\Matrix Generator v3.0.dll
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\bin\Debug\net7.0\Matrix Generator v3.0.pdb
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\obj\Debug\net7.0\Matrix Generator v3.0.csproj.AssemblyReference.cache
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\obj\Debug\net7.0\Matrix Generator v3.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\obj\Debug\net7.0\Matrix Generator v3.0.AssemblyInfoInputs.cache
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\obj\Debug\net7.0\Matrix Generator v3.0.AssemblyInfo.cs
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\obj\Debug\net7.0\Matrix Generator v3.0.csproj.CoreCompileInputs.cache
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\obj\Debug\net7.0\Matrix Generator v3.0.dll
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\obj\Debug\net7.0\refint\Matrix Generator v3.0.dll
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\obj\Debug\net7.0\Matrix Generator v3.0.pdb
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\obj\Debug\net7.0\Matrix Generator v3.0.genruntimeconfig.cache
+D:\C#\CSharpProjects\Matrix-Generator-v3.0\obj\Debug\net7.0\ref\Matrix Generator v3.0.dll
