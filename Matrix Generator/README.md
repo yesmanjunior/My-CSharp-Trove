@@ -10,4 +10,5 @@
 - Better code look
 
 ### P.S.
-You may find the codes atrocious and messy, so bear with me while I figure it all out.
+- .exe file can be found in bin\Debug\net7.0 directory;
+- You may find the codes atrocious and messy, so bear with me while I figure it all out.
